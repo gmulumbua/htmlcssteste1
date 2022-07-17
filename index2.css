@@ -1,0 +1,27 @@
+#L1{
+	width: 1200px;
+	height: 300px;
+	margin-left: 30px;
+	border-color: red;
+	
+}
+#B{
+	background-color: #378805;
+}
+
+a:hover{
+	background-color: #800000;
+	text-decoration: none;
+}
+
+a {
+ 	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: white;
+}
+#T{
+	background-color: #e8e8d9;
+	padding: 15px;
+}

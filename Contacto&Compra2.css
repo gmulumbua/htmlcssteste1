@@ -1,0 +1,22 @@
+#m{
+	background-color: #378805;
+	text-align: center;
+
+}
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #ffffff;
+}
+a:hover{
+	background-color: #0033ff;
+	text-decoration: none;
+}
+#rodape{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+
